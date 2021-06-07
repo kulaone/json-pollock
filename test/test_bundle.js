@@ -396,7 +396,6 @@ describe('json-pollock tests', function () {
         "type": "image",
         "url": "assets/iphone-8-concept.jpg",
         "tooltip": "image tooltip",
-        "alt": "image alt",
         "caption": "first image",
         "rtl": true,
         "click": {
@@ -411,7 +410,6 @@ describe('json-pollock tests', function () {
         "type": "image",
         "url": "/wrong_url",
         "tooltip": "image tooltip",
-        "alt": "image alt",
         "caption": "secund image",
         "rtl": true,
         "click": {
